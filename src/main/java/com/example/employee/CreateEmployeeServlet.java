@@ -1,4 +1,4 @@
-package com.example.employe;
+package com.example.employee;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
@@ -9,7 +9,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.sql.SQLException;
 
-import static com.example.employe.EmployeeDAO.createEmployee;
+import static com.example.employee.EmployeeDAO.createEmployee;
 
 @WebServlet(name = "CreateEmployeeServlet", value = "/createEmployee")
 public class CreateEmployeeServlet extends HttpServlet {

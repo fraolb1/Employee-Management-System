@@ -1,4 +1,4 @@
-package com.example.employe;
+package com.example.employee;
 
 // EmployeeDAO.java
 import java.sql.*;

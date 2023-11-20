@@ -1,4 +1,4 @@
-package com.example.employe;
+package com.example.employee;
 
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;

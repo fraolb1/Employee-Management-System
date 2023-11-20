@@ -1,4 +1,4 @@
-package com.example.employe;
+package com.example.employee;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;

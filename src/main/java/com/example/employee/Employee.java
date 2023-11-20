@@ -1,5 +1,5 @@
 
-package com.example.employe;
+package com.example.employee;
 public class Employee {
 	private int id;
 	private String name;
